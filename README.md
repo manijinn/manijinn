@@ -1,8 +1,8 @@
-Hi I'm Usmaan B. I am a student at UCF.
+Hi I'm Usmaan B. I am a UCF Alumni.
 
-I'm seeking internship oppurtunities in the tech/programming industry.
+I'm seeking career opportunities in the tech/comp sci industry.
 
-This GitHub I mainly use for school purposes but I saved a couple of my projects here.
+This GitHub account I mainly use for school and professional purposes, and I saved a lot of my projects here.
 
 You can reach me at my LinkedIn: www.linkedin.com/in/usmaan-b-0ab29a29b 
 
